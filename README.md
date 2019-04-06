@@ -1,2 +1,0 @@
-# reactStudy
-Created with CodeSandbox
